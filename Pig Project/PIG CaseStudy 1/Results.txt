@@ -1,0 +1,5 @@
+17	pass
+11	pass
+12	fail
+18	fail
+15	fail
