@@ -1,0 +1,9 @@
+Colno	Name			Description
+-----	----			-----------
+1	EmployeeName		LastName,FirstName MiddleName
+2	JobTitle	        Employee's job title
+3	Salary		        Monthly Salary of the employee
+4	TravelAllowance		Monthly TravelAllawance availed by the employee
+5	OrganisationType 	LBOE/SABAC
+6	Organisation		Name of the organisation
+7	FiscalYear 		2010-2012
