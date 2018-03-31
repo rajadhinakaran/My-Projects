@@ -1,0 +1,10 @@
+SNO     Name            Description
+---   ----              -----------
+1       Symbol          Symbol of the stock being traded
+2 ?     Date            Date on which particular stock is traded
+3       Open            Stock value at the opening of trading time
+4       High            Highest value of stock during trading time
+5       Low             Lowest value of stock during trading time
+6       Close           Closing value of the stock during trading time
+7       Volume          Total volume of stock traded
+8       AdjClose        Adjusted Close stock value
